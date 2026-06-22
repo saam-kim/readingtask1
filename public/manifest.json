@@ -1,0 +1,16 @@
+{
+  "short_name": "TOEFL Write",
+  "name": "TOEFL iBT Writing Task 1: Build a Sentence Practice",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#e4ebf5",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
